@@ -1,0 +1,3 @@
+if we run this command in the vs code we will get the new linked in new web in another chrome"pip install fastapi uvicorn selenium undetected-chromedriver"
+For running the api.s give the command every time after changing the everytinme "uvicorn main:app --reloadl"
+Like this you will get after the creating your own api ex-"http://127.0.0.1:8000/docs#/default"
